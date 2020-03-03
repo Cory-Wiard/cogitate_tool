@@ -24,4 +24,4 @@ if __name__ == "__main__":
      repo by the url of the repo.",
     )
     args = parser.parse_args()
-    pprint(find_repositories(args.link))
+    # pprint(find_repositories(args.link))
